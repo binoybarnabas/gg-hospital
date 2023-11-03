@@ -1,8 +1,15 @@
-# gg-hospital
-Hospital website
-## Home page hero section
+# What is GG-Hospital
+gg-hospital is a project to build a home page for the hospital GG Hospital.  
+## Contents   
+1. Home page Hero section
+2. Department section
+3. specialist section 
+4. Facilities section  
+5. Newsletter section  
+6. Footer section
+## 1.Home page Hero section
 ![Screenshot (54)](https://github.com/binoybarnabas/gg-hospital/assets/77873811/2477691a-f967-4b47-b9d1-b0698fe5171e)
-## Departments Section
+## 2.Department Section
 ![Screenshot (55)](https://github.com/binoybarnabas/gg-hospital/assets/77873811/73bb4747-b280-431b-8fc9-fdb642943628)
 ## Specialist section
 ![Screenshot (56)](https://github.com/binoybarnabas/gg-hospital/assets/77873811/04b94ddc-fe50-428d-8fbe-1584cb930c47)
